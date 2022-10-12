@@ -1,0 +1,267 @@
+body {
+  background-color: #0A142F;
+  color: white;
+  font-family: inter, sans-serif;
+}
+
+.Parent{
+  font-size: 0.859em;
+}
+
+.Principal.Parent{
+  font-size: 0.955rem;
+}
+
+.Parent-4{
+  font-size: 0.985em;
+}
+
+.Parent-Footer{
+  font-size: 1.25rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.button {
+  background-color: #FFC93E;
+  color: #0A142F;
+  font-size: 1.125rem;
+  border-radius: 1.125rem;
+  display: inline-block;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  height: 2.5rem;
+  
+}
+
+.button, a{
+  padding-top:  0.75rem;
+}
+
+.nav-principal a {
+  font-size: 1.125rem;
+
+}
+
+a :hover {
+  text-decoration: underline;
+}
+
+.menu li {
+  display: inline;
+  margin-left: 3.125rem;
+}
+
+.caja1 {
+  background-color: #353F5B;
+  padding: 8.688rem;
+  margin: 2.125rem;
+  border-radius: 1.563rem;
+}
+
+/** preguntar al profe
+flex o "grit"
+
+.imagen1{
+    position: absolute;
+    width: 266px;
+    left: 904px;
+    height: 250px;
+    top: 30px;
+
+}
+
+.imagen2{
+    position: absolute;
+    width: 141px;
+    left: 20px;
+    height: 207px;
+    top: 200px;
+}
+**/
+.conteinerh1 {
+  margin: 0 auto;
+  max-width: 70.20rem;
+}
+
+.wordclass{
+  margin-left: 1.980rem;
+  width: 9rem;
+  left: 14.454rem;
+  height: 4.125rem;
+  transform: rotate(-30.15deg);
+  border-style: solid;
+  text-align: center;
+  font-size: 1.35rem;
+  top: 15.4864rem;
+
+}
+
+.h1{
+  font-size: 5.125rem;
+  text-align: center;
+}
+
+.our-lastest-project{
+  display: flex;
+}
+.our-lastest-project-1 li {
+  justify-content: center;
+  list-style-type: none;
+  display: inline;
+  align-items: center;
+  padding: 40px;
+  flex-direction: column;
+}
+
+.our-lastest-project-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.li_amarillo{
+  color: #FFC93E;
+}
+
+.what-say-happy-clients{
+  display: flex;
+}
+
+.comentarios {
+  background-color: #353F5B;
+  margin: 1.563rem;
+  padding: 4.375rem;
+  border-radius: 3.125rem;
+}
+
+.parrafo-happy-clients{
+  color: #FFC93E;
+}
+
+.comentarios-happy-clients-flex{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Blog_from_insights{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.formfooter{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form{
+  background-color: #FFC93E;
+  border-left: 3.125rem;
+  margin: 1.875rem;
+  width: 25rem;
+  padding: 3.875rem;
+  color: black;
+  border-radius: 1.25rem;
+}
+
+.footerfinsh{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.colorfooter{
+  background-color: #353F5B;
+  
+}
+
+.main{
+  display: flex;
+}
+
+.lista_cifras{
+ display: flex;
+ justify-content: space-evenly; 
+}
+
+.fontnav{
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.service_we_can_help_you{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.servicewecan{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logosfinales{
+  display: inline;
+  padding: 0.625rem;
+}
+
+.titulosfinales{
+  font-size: 1rem;
+  height: 1.563rem;
+}
+
+.see-all{
+  border: solid 0.125rem; 
+  border-radius: 1.563rem;
+  padding: 1.1rem;
+}
+
+.titulofinal2{
+  padding: 5rem;
+}
+
+.buttonblogfrom{
+  background-color: white;
+  color: #FFC93E;
+  border-radius: 0.938rem;
+  padding: 0.625rem;
+}
+
+.columtextour{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.titulosblogfrom{
+  font-size: 1rem;
+  font-weight: lighter;
+  padding-top: 0.938rem;
+}
+
+.parrafoblogfrom{
+  font-size: 2.875rem;
+}
+
+.buttonfinishblogfrom{
+  border: solid 0.125rem; 
+  border-radius: 1.563rem;
+  padding: 0.5rem;
+  justify-content: space-between;
+
+}
+
+.flexoursolution{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
